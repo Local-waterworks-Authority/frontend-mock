@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        mitr: "var(--font-mitr)",
+        sarabun: "var(--font-sarabun)",
+      },
     },
   },
   plugins: [],

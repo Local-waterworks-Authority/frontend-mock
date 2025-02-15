@@ -1,0 +1,1172 @@
+[
+    {
+        "groupId": 1,
+        "groupName": "เล่ม 1",
+        "meters": [
+            {
+                "meterId": 1,
+                "meterName": "บริษัท ศรีสวัสดิ์เพาเวอร์ 2014 จำกัด"
+            },
+            {
+                "meterId": 2,
+                "meterName": "ทศพร ชมพูจันทร์ (1)"
+            },
+            {
+                "meterId": 3,
+                "meterName": "ทศพร ชมพูจันทร์ (2)"
+            },
+            {
+                "meterId": 4,
+                "meterName": "มนู ลินตาพรหม"
+            },
+            {
+                "meterId": 5,
+                "meterName": "ทองคำ สมณะ"
+            },
+            {
+                "meterId": 6,
+                "meterName": "ณรงค์ อินทนนท์"
+            },
+            {
+                "meterId": 7,
+                "meterName": "สำราษ สมณะ"
+            },
+            {
+                "meterId": 8,
+                "meterName": "อังคณา สิทธิหน้อย"
+            },
+            {
+                "meterId": 9,
+                "meterName": "อุดม ศรีเมืองมา"
+            },
+            {
+                "meterId": 10,
+                "meterName": "พรสุทธี ลดาวัลย์ ณ อยุธยา"
+            },
+            {
+                "meterId": 11,
+                "meterName": "สานิต เทพนา"
+            },
+            {
+                "meterId": 12,
+                "meterName": "อนุชา ศรีเมืองมา"
+            },
+            {
+                "meterId": 13,
+                "meterName": "จิราพร รังทะษี"
+            },
+            {
+                "meterId": 14,
+                "meterName": "จรัสศรี สุภามูล"
+            },
+            {
+                "meterId": 15,
+                "meterName": "สวัสดิ์ อุตตะมา"
+            },
+            {
+                "meterId": 16,
+                "meterName": "สุชาติ ใจกันธา"
+            },
+            {
+                "meterId": 17,
+                "meterName": "หมวกคำ ธินันชัย"
+            },
+            {
+                "meterId": 18,
+                "meterName": "ชลิดาภรณ์ ลาวนานนท์"
+            },
+            {
+                "meterId": 19,
+                "meterName": "ชลกนก บุญตันสา"
+            },
+            {
+                "meterId": 20,
+                "meterName": "กนกกาญจน์ บุญตันสา"
+            },
+            {
+                "meterId": 21,
+                "meterName": "กาญจนา แก้วน้อย"
+            },
+            {
+                "meterId": 22,
+                "meterName": "นิ่ม หน่อพุฒ"
+            },
+            {
+                "meterId": 23,
+                "meterName": "บุญศรี คำวงค์ปิน"
+            },
+            {
+                "meterId": 24,
+                "meterName": "สุพิน จันทร์ฟอง"
+            },
+            {
+                "meterId": 25,
+                "meterName": "สมพร สง่าเพ็ชร"
+            },
+            {
+                "meterId": 26,
+                "meterName": "วันดี กันทาหล้า"
+            },
+            {
+                "meterId": 27,
+                "meterName": "ประพัฒน์ คำมามูล"
+            },
+            {
+                "meterId": 28,
+                "meterName": "ทวี เจริญพันธ์"
+            },
+            {
+                "meterId": 29,
+                "meterName": "เสนอ ศรีเมืองมา"
+            },
+            {
+                "meterId": 30,
+                "meterName": "เสงี่ยม ศรีเมืองมา"
+            },
+            {
+                "meterId": 31,
+                "meterName": "กลิ่นทอง ใจธิ"
+            },
+            {
+                "meterId": 32,
+                "meterName": "ประสิทธิ์  ศรีทองใบ"
+            },
+            {
+                "meterId": 33,
+                "meterName": "วาชิณี บุญมา"
+            },
+            {
+                "meterId": 34,
+                "meterName": "โสภิดา คำป้อ"
+            },
+            {
+                "meterId": 35,
+                "meterName": "สมทรง สุขใจ (อ้ายแปว)"
+            },
+            {
+                "meterId": 36,
+                "meterName": "สัมฤทธิ์ ปัญญาเจริญดี"
+            },
+            {
+                "meterId": 37,
+                "meterName": "สุชิฌา ทองชัย"
+            },
+            {
+                "meterId": 38,
+                "meterName": "จันทร์นวล ชมภูคำ"
+            },
+            {
+                "meterId": 39,
+                "meterName": "บรรเลง ชมภูคำ (1)"
+            },
+            {
+                "meterId": 40,
+                "meterName": "บรรเลง ชมภูคำ (2)"
+            },
+            {
+                "meterId": 41,
+                "meterName": "บวรมงคล อินต๊ะปิน"
+            }
+        ]
+    },
+    {
+        "groupId": 2,
+        "groupName": "เล่ม 2",
+        "meters": [
+            {
+                "meterId": 42,
+                "meterName": "กมล โพธิมอย"
+            },
+            {
+                "meterId": 43,
+                "meterName": "ลัดดา วังบู้"
+            },
+            {
+                "meterId": 44,
+                "meterName": "เชิด วังบู้"
+            },
+            {
+                "meterId": 45,
+                "meterName": "ทองยศ ไชยวรรณ"
+            },
+            {
+                "meterId": 46,
+                "meterName": "พิมพา ไชยวรรณ"
+            },
+            {
+                "meterId": 47,
+                "meterName": "สมาน ปาลี"
+            },
+            {
+                "meterId": 48,
+                "meterName": "คำแปง สมบูรณ์ไชย"
+            },
+            {
+                "meterId": 49,
+                "meterName": "สายสวาท ใจปัญญา"
+            },
+            {
+                "meterId": 50,
+                "meterName": "สวัสดิ์ วังบู้"
+            },
+            {
+                "meterId": 51,
+                "meterName": "สีวัน ใจปัญญา"
+            },
+            {
+                "meterId": 52,
+                "meterName": "อนุรักษ์ บุญลือ (โด่ง)"
+            },
+            {
+                "meterId": 53,
+                "meterName": "ขันคำ กุนามี"
+            },
+            {
+                "meterId": 54,
+                "meterName": "ยุพา ศรีเมืองมา"
+            },
+            {
+                "meterId": 55,
+                "meterName": "วรรณา เต๋จ๊ะแยง (บ้านต๊ะ)"
+            },
+            {
+                "meterId": 56,
+                "meterName": "วัชรินทร์ จันทร์โชติ"
+            },
+            {
+                "meterId": 57,
+                "meterName": "บ้านพวงเพชร (ผู้ว่าเก่า)"
+            },
+            {
+                "meterId": 58,
+                "meterName": "สาคร กันคำ"
+            },
+            {
+                "meterId": 59,
+                "meterName": "สายบัว นิลอนันต์"
+            },
+            {
+                "meterId": 60,
+                "meterName": "ติ๊บ เมืองงาม"
+            },
+            {
+                "meterId": 61,
+                "meterName": "กิ่งแก้ว เมืองงาม"
+            },
+            {
+                "meterId": 62,
+                "meterName": "พรรณี คำมาแดง (สวน)"
+            },
+            {
+                "meterId": 63,
+                "meterName": "ทิพวรรณ คำวอน"
+            },
+            {
+                "meterId": 64,
+                "meterName": "ประภา  (สันโค้งใหม่)"
+            }
+        ]
+    },
+    {
+        "groupId": 3,
+        "groupName": "เล่ม 3",
+        "meters": [
+            {
+                "meterId": 65,
+                "meterName": "ศรีต่วน บุญตันสา"
+            },
+            {
+                "meterId": 66,
+                "meterName": "อินถา วงค์วรรณ"
+            },
+            {
+                "meterId": 67,
+                "meterName": "ชัย พิศแสวง"
+            },
+            {
+                "meterId": 68,
+                "meterName": "เรณู เทกาง"
+            },
+            {
+                "meterId": 69,
+                "meterName": "คำ อุตตะมา"
+            },
+            {
+                "meterId": 70,
+                "meterName": "อารีรัตน์ สงมณี"
+            },
+            {
+                "meterId": 71,
+                "meterName": "รัตน์พงค์ จันทร์สำโรง"
+            },
+            {
+                "meterId": 72,
+                "meterName": "วนัย เกิดกลาง"
+            },
+            {
+                "meterId": 73,
+                "meterName": "มานพ ศรีเมืองมา (1)"
+            },
+            {
+                "meterId": 74,
+                "meterName": "กิตติพงษ์ จันทร์พรหมมา"
+            },
+            {
+                "meterId": 75,
+                "meterName": "ศรีวรรณ เป็งชัยวงค์"
+            },
+            {
+                "meterId": 76,
+                "meterName": "วสุวัฒน์ ประชุม"
+            },
+            {
+                "meterId": 77,
+                "meterName": "เรือนคำ ศรีเมืองมา (1)"
+            },
+            {
+                "meterId": 78,
+                "meterName": "เรือนคำ ศรีเมืองมา (2)"
+            },
+            {
+                "meterId": 79,
+                "meterName": "จินดา แซ่ตั้ง"
+            },
+            {
+                "meterId": 80,
+                "meterName": "พวงทอง ตาดวง"
+            },
+            {
+                "meterId": 81,
+                "meterName": "ชยุต เวียงอำพล"
+            },
+            {
+                "meterId": 82,
+                "meterName": "บรรจง อุตตะมา"
+            },
+            {
+                "meterId": 83,
+                "meterName": "ธวัช แสงกันทะ"
+            },
+            {
+                "meterId": 84,
+                "meterName": "มลธิชา จันทร์สำโรง"
+            },
+            {
+                "meterId": 85,
+                "meterName": "ยุวธิดา ผดุงเจริญ"
+            },
+            {
+                "meterId": 86,
+                "meterName": "สิริรัตน์ วราภรณ์"
+            },
+            {
+                "meterId": 87,
+                "meterName": "มานพ วราภรณ์"
+            },
+            {
+                "meterId": 88,
+                "meterName": "เกี้ยงคำ โพธิคำ"
+            },
+            {
+                "meterId": 89,
+                "meterName": "เจตน์สฤษฎิ์ ประเสริฐผากร"
+            },
+            {
+                "meterId": 90,
+                "meterName": "บวรมงคล อินต๊ะปิน"
+            },
+            {
+                "meterId": 91,
+                "meterName": "นพวรรณ ใจดี"
+            },
+            {
+                "meterId": 92,
+                "meterName": "เอ้ย ศรีเมืองมา"
+            },
+            {
+                "meterId": 93,
+                "meterName": "สวัสดิ์ อุตตะมา"
+            },
+            {
+                "meterId": 94,
+                "meterName": "บุญชื่น ชมภูคำ"
+            },
+            {
+                "meterId": 95,
+                "meterName": "มานพ ศรีเมืองมา (2)"
+            },
+            {
+                "meterId": 96,
+                "meterName": "กนกกาญจน์ บุญตันสา"
+            },
+            {
+                "meterId": 97,
+                "meterName": "อ้อย (ข้างร้านนายเจตน์สฤษฎิ์)"
+            },
+            {
+                "meterId": 98,
+                "meterName": "ร้านหน้าปากซอย"
+            },
+            {
+                "meterId": 99,
+                "meterName": "กิตติพงษ์ จันทร์พรหมมา"
+            },
+            {
+                "meterId": 100,
+                "meterName": "ร้านขายของเก่า (หน้ากาด)"
+            },
+            {
+                "meterId": 101,
+                "meterName": "พิชิตชัย นามวงค์พรหม (1)"
+            },
+            {
+                "meterId": 102,
+                "meterName": "พิชิตชัย นามวงค์พรหม (2)"
+            },
+            {
+                "meterId": 103,
+                "meterName": "พิชิตชัย นามวงค์พรหม (3)"
+            },
+            {
+                "meterId": 104,
+                "meterName": "ประมวล บุนนาค"
+            },
+            {
+                "meterId": 105,
+                "meterName": "วรวิทย์ ศรีหาเสนา"
+            },
+            {
+                "meterId": 106,
+                "meterName": "เกสร"
+            },
+            {
+                "meterId": 107,
+                "meterName": "อินหวัน อินก้อนวงค์"
+            },
+            {
+                "meterId": 108,
+                "meterName": "พัชราภรณ์ โพธิคำ (1)"
+            },
+            {
+                "meterId": 109,
+                "meterName": "พัชราภรณ์ โพธิคำ (2)"
+            },
+            {
+                "meterId": 110,
+                "meterName": "พัชราภรณ์ โพธิคำ (3)"
+            },
+            {
+                "meterId": 111,
+                "meterName": "สุภาพ ไชยแก้ว"
+            },
+            {
+                "meterId": 112,
+                "meterName": "จรัล พรหมใจ (1)"
+            },
+            {
+                "meterId": 113,
+                "meterName": "จรัล พรหมใจ (2)"
+            },
+            {
+                "meterId": 114,
+                "meterName": "อำนาจ ชุ่มใจ"
+            },
+            {
+                "meterId": 115,
+                "meterName": "ปราณี ศาตร์ร้าย"
+            },
+            {
+                "meterId": 116,
+                "meterName": "เอนก วังบู๊"
+            },
+            {
+                "meterId": 117,
+                "meterName": "อัจฉราวรรณ นามวงค์พรหม"
+            },
+            {
+                "meterId": 118,
+                "meterName": "สงวน ประกอบของ"
+            },
+            {
+                "meterId": 119,
+                "meterName": "วันชนะ ชื่นชำ"
+            },
+            {
+                "meterId": 120,
+                "meterName": "พรรณี คำมาแดง"
+            },
+            {
+                "meterId": 121,
+                "meterName": "แสวง ตุ้ยแสง (1)"
+            },
+            {
+                "meterId": 122,
+                "meterName": "แสวง ตุ้ยแสง (2)"
+            },
+            {
+                "meterId": 123,
+                "meterName": "แสวง ตุ้ยแสง (3)"
+            },
+            {
+                "meterId": 124,
+                "meterName": "ประกาย ใจปัญญา"
+            },
+            {
+                "meterId": 125,
+                "meterName": "ผกาพันธ์ ขัติรัตน์"
+            },
+            {
+                "meterId": 126,
+                "meterName": "พรรณี แสงกันทะ"
+            },
+            {
+                "meterId": 127,
+                "meterName": "สุทธิพงศ์ ขัติรัตน์ (1)"
+            },
+            {
+                "meterId": 128,
+                "meterName": "สุทธิพงศ์ ขัติรัตน์ (2)"
+            },
+            {
+                "meterId": 129,
+                "meterName": "ณรงค์ เรือนคำแปง"
+            },
+            {
+                "meterId": 130,
+                "meterName": "พรรณี คำมาแดง"
+            },
+            {
+                "meterId": 131,
+                "meterName": "รุ่ง พวงดอกไม้"
+            },
+            {
+                "meterId": 132,
+                "meterName": "สารภี"
+            },
+            {
+                "meterId": 133,
+                "meterName": "สุพัตร อนันต์จิตต์"
+            }
+        ]
+    },
+    {
+        "groupId": 4,
+        "groupName": "เล่ม 4",
+        "meters": [
+            {
+                "meterId": 134,
+                "meterName": "ฉลวย สุยะตา"
+            },
+            {
+                "meterId": 135,
+                "meterName": "สิงห์คำ จันต๊ะดา"
+            },
+            {
+                "meterId": 136,
+                "meterName": "ดวงเนตร สมณี (1)"
+            },
+            {
+                "meterId": 137,
+                "meterName": "สุภาทิพย์ (พี่เรียว 1)"
+            },
+            {
+                "meterId": 138,
+                "meterName": "สนิท ชมภูจันทร์ (1)"
+            },
+            {
+                "meterId": 139,
+                "meterName": "พิมปา บุญตันสา"
+            },
+            {
+                "meterId": 140,
+                "meterName": "บ้านเช่านางอนงค์ ประสิทธิ์ (ดูแล)"
+            },
+            {
+                "meterId": 141,
+                "meterName": "ถนอมศรี ใจแปง"
+            },
+            {
+                "meterId": 142,
+                "meterName": "สมเกียรติ์ กันต๊ะดา"
+            },
+            {
+                "meterId": 143,
+                "meterName": "สนั่น ประสิทธิ์"
+            },
+            {
+                "meterId": 144,
+                "meterName": "สมเดช อินตาพรม"
+            },
+            {
+                "meterId": 145,
+                "meterName": "โชติกา กันจินะ (1)"
+            },
+            {
+                "meterId": 146,
+                "meterName": "ประสาน แซ่เยื้อง (2)"
+            },
+            {
+                "meterId": 147,
+                "meterName": "บุญอยู่ คำอ้าย"
+            },
+            {
+                "meterId": 148,
+                "meterName": "นิภา กันทาหล้า"
+            },
+            {
+                "meterId": 149,
+                "meterName": "ประชัน กันทาหล้า"
+            },
+            {
+                "meterId": 150,
+                "meterName": "ศรีภณ ปินตาปัน"
+            },
+            {
+                "meterId": 151,
+                "meterName": "บัวเงา ใจยะสม"
+            },
+            {
+                "meterId": 152,
+                "meterName": "วรวิทย์ ช่างสากล (1)"
+            },
+            {
+                "meterId": 153,
+                "meterName": "วรวิทย์ ช่างสากล (2)"
+            },
+            {
+                "meterId": 154,
+                "meterName": "สะไบทิพย์ อินทร์คาภรณ์"
+            },
+            {
+                "meterId": 155,
+                "meterName": "ธันฐภัทร์ ขัติรัตน์"
+            },
+            {
+                "meterId": 156,
+                "meterName": "สวนสนิท ชมภูจันทร์ (2)"
+            },
+            {
+                "meterId": 157,
+                "meterName": "อนุชา บุญลือ (ดิ่ง)"
+            },
+            {
+                "meterId": 158,
+                "meterName": "ดวงเนตร สมณี (2)"
+            },
+            {
+                "meterId": 159,
+                "meterName": "ประสาน แซ่เยื้อง (1)"
+            },
+            {
+                "meterId": 160,
+                "meterName": "กิ่งแก้ว ยาวิลาศ"
+            },
+            {
+                "meterId": 161,
+                "meterName": "หทัยทิพย์ บุญปอด"
+            },
+            {
+                "meterId": 162,
+                "meterName": "คำแสน จันทร์ฟอง (สวน)"
+            },
+            {
+                "meterId": 163,
+                "meterName": "สมบูรณ์ จันทร์ฟอง (สวน)"
+            },
+            {
+                "meterId": 164,
+                "meterName": "ธเนศวร ปิติรัตน์"
+            },
+            {
+                "meterId": 165,
+                "meterName": "สวนธณดล"
+            },
+            {
+                "meterId": 166,
+                "meterName": "โชติกา กันจินะ (สวน)"
+            },
+            {
+                "meterId": 167,
+                "meterName": "อารีย์ จุมปา"
+            },
+            {
+                "meterId": 168,
+                "meterName": "อำนาจ อินต๊ะล้อม"
+            },
+            {
+                "meterId": 169,
+                "meterName": "เสนาะ กวงแหวน"
+            },
+            {
+                "meterId": 170,
+                "meterName": "รัตติกาล อินตาวงค์"
+            }
+        ]
+    },
+    {
+        "groupId": 5,
+        "groupName": "เล่ม 5",
+        "meters": [
+            {
+                "meterId": 171,
+                "meterName": "ศุภชัย พิมดา"
+            },
+            {
+                "meterId": 172,
+                "meterName": "พรชัย สุยะราษฎร์"
+            },
+            {
+                "meterId": 173,
+                "meterName": "ทองสาย บุญตันสา"
+            },
+            {
+                "meterId": 174,
+                "meterName": "บุญยืน แก้วฝั้น"
+            },
+            {
+                "meterId": 175,
+                "meterName": "สุบิน"
+            },
+            {
+                "meterId": 176,
+                "meterName": "ทวี ศรธรรม"
+            },
+            {
+                "meterId": 177,
+                "meterName": "สุพัตร ปิมปา (1)"
+            },
+            {
+                "meterId": 178,
+                "meterName": "สาทิพย์ กันธาหล้า"
+            },
+            {
+                "meterId": 179,
+                "meterName": "มรกต อุ่นบางหลวง"
+            },
+            {
+                "meterId": 180,
+                "meterName": "ณรงค์เดช ชัยสาร"
+            },
+            {
+                "meterId": 181,
+                "meterName": "ประยุทธ จุมปา"
+            },
+            {
+                "meterId": 182,
+                "meterName": "สวัสดิ์ สุภามูล"
+            },
+            {
+                "meterId": 183,
+                "meterName": "วันเพ็ญ ใจปัญญา"
+            },
+            {
+                "meterId": 184,
+                "meterName": "นิ่ม ใจปัญญา (บ้านเช่า 1)"
+            },
+            {
+                "meterId": 185,
+                "meterName": "นิ่ม ใจปัญญา (บ้านเช่า 2)"
+            },
+            {
+                "meterId": 186,
+                "meterName": "นิ่ม ใจปัญญา (บ้านเช่า 3)"
+            },
+            {
+                "meterId": 187,
+                "meterName": "นิ่ม ใจปัญญา (บ้านเช่า 4)"
+            },
+            {
+                "meterId": 188,
+                "meterName": "สายทอง คุณยศยิ่ง"
+            },
+            {
+                "meterId": 189,
+                "meterName": "นิภา กันทาหล้า (1)"
+            },
+            {
+                "meterId": 190,
+                "meterName": "นิภา กันทาหล้า (2)"
+            },
+            {
+                "meterId": 191,
+                "meterName": "นิภา กันทาหล้า (3)"
+            },
+            {
+                "meterId": 192,
+                "meterName": "นพพร กันทาหล้า"
+            },
+            {
+                "meterId": 193,
+                "meterName": "ศศินันท์ กุนามี"
+            },
+            {
+                "meterId": 194,
+                "meterName": "นิภา กันทาหล้า (หอพัก)"
+            },
+            {
+                "meterId": 195,
+                "meterName": "ชินดนัย ดนัยนารีกุล"
+            },
+            {
+                "meterId": 196,
+                "meterName": "สุพัตร ปิมปา (2)"
+            },
+            {
+                "meterId": 197,
+                "meterName": "อดุลย์ ตาลศรี"
+            },
+            {
+                "meterId": 198,
+                "meterName": "ราตรี ปัญญาเรือง"
+            },
+            {
+                "meterId": 199,
+                "meterName": "บัวนอง เป็งไชยวงค์ (1)"
+            },
+            {
+                "meterId": 200,
+                "meterName": "บัวนอง เป็งไชยวงค์ (2)"
+            },
+            {
+                "meterId": 201,
+                "meterName": "รัตนา กุนามี"
+            },
+            {
+                "meterId": 202,
+                "meterName": "กมลกร ทองชัย (สวน)"
+            },
+            {
+                "meterId": 203,
+                "meterName": "กฤตยา อุ่นบางหลวง"
+            },
+            {
+                "meterId": 204,
+                "meterName": "อดุลย์ ตาลศรี (2)"
+            },
+            {
+                "meterId": 205,
+                "meterName": "วราภรณ์ ชมภูจันทร์"
+            },
+            {
+                "meterId": 206,
+                "meterName": "มานิตย์ สุยนวล (สวน)"
+            },
+            {
+                "meterId": 207,
+                "meterName": "ลฎาภา กวงแหวน"
+            }
+        ]
+    },
+    {
+        "groupId": 6,
+        "groupName": "เล่ม 6",
+        "meters": [
+            {
+                "meterId": 208,
+                "meterName": "สมมาด ศรีจันทร์"
+            },
+            {
+                "meterId": 209,
+                "meterName": "บัวเรียว พรหมทา"
+            },
+            {
+                "meterId": 210,
+                "meterName": "แสวง ติปิน"
+            },
+            {
+                "meterId": 211,
+                "meterName": "แสน จันทร์ฟอง"
+            },
+            {
+                "meterId": 212,
+                "meterName": "บัวลอม แสงประดับ (เช่า)"
+            },
+            {
+                "meterId": 213,
+                "meterName": "ไฉน สุยะนนท์"
+            },
+            {
+                "meterId": 214,
+                "meterName": "ขันคำ กันธาหล้า"
+            },
+            {
+                "meterId": 215,
+                "meterName": "ถณัดกิจ กันธาหล้า (1)"
+            },
+            {
+                "meterId": 216,
+                "meterName": "ถณัดกิจ กันธาหล้า (2)"
+            },
+            {
+                "meterId": 217,
+                "meterName": "พัชรี คุ้มครอง"
+            },
+            {
+                "meterId": 218,
+                "meterName": "ประวัติ อินตาพรหม"
+            },
+            {
+                "meterId": 219,
+                "meterName": "แม่ฟองแก้ว คุณยศยิ่ง"
+            },
+            {
+                "meterId": 220,
+                "meterName": "ณฤดี สุยะนวล"
+            },
+            {
+                "meterId": 221,
+                "meterName": "ประธาน หาญเจริญกุล"
+            },
+            {
+                "meterId": 222,
+                "meterName": "อุบลลักษณ์ คุณยศยิ่ง"
+            },
+            {
+                "meterId": 223,
+                "meterName": "ประเสริฐ ณีระพันธ์"
+            },
+            {
+                "meterId": 224,
+                "meterName": "มานิตย์ สุยะนวล"
+            },
+            {
+                "meterId": 225,
+                "meterName": "เมธพร ญาณสาร"
+            },
+            {
+                "meterId": 226,
+                "meterName": "สงกรานต์ สุยะนนท์"
+            },
+            {
+                "meterId": 227,
+                "meterName": "ณัฐพงศ์ ณีระพันธ์"
+            },
+            {
+                "meterId": 228,
+                "meterName": "ติก"
+            },
+            {
+                "meterId": 229,
+                "meterName": "จริยา จันทร์ฟอง"
+            },
+            {
+                "meterId": 230,
+                "meterName": "ศูนย์น้ำดื่มเพื่อชุมชน (2)"
+            },
+            {
+                "meterId": 231,
+                "meterName": "ประทุม ติปิน"
+            },
+            {
+                "meterId": 232,
+                "meterName": "แก้วพา ศรีจันทร์"
+            },
+            {
+                "meterId": 233,
+                "meterName": "เอนก อินตาพรหม"
+            },
+            {
+                "meterId": 234,
+                "meterName": "คุณเท้ง"
+            },
+            {
+                "meterId": 235,
+                "meterName": "พี่พร ธิมโน"
+            },
+            {
+                "meterId": 236,
+                "meterName": "มันทนา ในเที่ยว"
+            }
+        ]
+    },
+    {
+        "groupId": 7,
+        "groupName": "เล่ม 7",
+        "meters": [
+            {
+                "meterId": 237,
+                "meterName": "ฤทธิชัย กันธาหล้า (จิราภรณ์)"
+            },
+            {
+                "meterId": 238,
+                "meterName": "ฤทธิชัย กันธาหล้า (เย็บผ้า)"
+            },
+            {
+                "meterId": 239,
+                "meterName": "ฤทธิชัย กันธาหล้า (หมูกะทะ)"
+            },
+            {
+                "meterId": 240,
+                "meterName": "ฤทธิชัย กันธาหล้า (เชิงดอย)"
+            },
+            {
+                "meterId": 241,
+                "meterName": "จีระศักดิ์ พรหมทา (เช่า)"
+            },
+            {
+                "meterId": 242,
+                "meterName": "สุมิตรา ไชยวรรณา"
+            },
+            {
+                "meterId": 243,
+                "meterName": "บัวจีน กันธาแก้ว"
+            },
+            {
+                "meterId": 244,
+                "meterName": "ประยุทธ ไชยวรรณา"
+            },
+            {
+                "meterId": 245,
+                "meterName": "ดวงใจ ไชยวรรณา"
+            },
+            {
+                "meterId": 246,
+                "meterName": "พุทธิกร เกตุสุจา"
+            },
+            {
+                "meterId": 247,
+                "meterName": "สุวิทย์ ธัญญาละ"
+            },
+            {
+                "meterId": 248,
+                "meterName": "สว่าง คำมามูล"
+            },
+            {
+                "meterId": 249,
+                "meterName": "บัวเรียว กันธาหล้า (1)"
+            },
+            {
+                "meterId": 250,
+                "meterName": "ธนัส วิชาเจริญ"
+            },
+            {
+                "meterId": 251,
+                "meterName": "จันทร์ดี ฝั้นศรี"
+            },
+            {
+                "meterId": 252,
+                "meterName": "ประยูร คำพัฒน์"
+            },
+            {
+                "meterId": 253,
+                "meterName": "ทองสุข หมวดออน"
+            },
+            {
+                "meterId": 254,
+                "meterName": "บ้านเช่าซอยหลังตัดผม"
+            },
+            {
+                "meterId": 255,
+                "meterName": "บ้านเช่าตัดผม"
+            },
+            {
+                "meterId": 256,
+                "meterName": "บ้านเช่าห้องกลาง"
+            },
+            {
+                "meterId": 257,
+                "meterName": "บ้านเช่าห้องสาม"
+            },
+            {
+                "meterId": 258,
+                "meterName": "บ้านพักชลประทาน (บ้านเก่านางอัญชัน)"
+            },
+            {
+                "meterId": 259,
+                "meterName": "บ้านพักนายต้น (ชลประทาน)"
+            },
+            {
+                "meterId": 260,
+                "meterName": "ประสิทธิ์ ไชยวรรณา"
+            },
+            {
+                "meterId": 261,
+                "meterName": "สมาน มณีจักร"
+            },
+            {
+                "meterId": 262,
+                "meterName": "สำนักชลประทาน"
+            },
+            {
+                "meterId": 263,
+                "meterName": "ห้องเช่าลุงแดง"
+            },
+            {
+                "meterId": 264,
+                "meterName": "สมชาย กองกลม"
+            },
+            {
+                "meterId": 265,
+                "meterName": "บัวเรียว กันธาหล้า (2)"
+            },
+            {
+                "meterId": 266,
+                "meterName": "ประกอบ ใจปัญญา"
+            },
+            {
+                "meterId": 267,
+                "meterName": "บุญเสริม เกศทับทิม"
+            },
+            {
+                "meterId": 268,
+                "meterName": "นิ่ม ใจปัญญา"
+            },
+            {
+                "meterId": 269,
+                "meterName": "นิ่ม ใจปัญญา (สวน 1)"
+            },
+            {
+                "meterId": 270,
+                "meterName": "นิ่ม ใจปัญญา (สวน 2)"
+            },
+            {
+                "meterId": 271,
+                "meterName": "อัครเดช บุญหลวง"
+            },
+            {
+                "meterId": 272,
+                "meterName": "ประทีป ถนอมศิลป์"
+            },
+            {
+                "meterId": 273,
+                "meterName": "ทิน ภู่พึงพร้าว"
+            },
+            {
+                "meterId": 274,
+                "meterName": "วสันต์ มั่งมูล"
+            },
+            {
+                "meterId": 275,
+                "meterName": "รมิดา"
+            },
+            {
+                "meterId": 276,
+                "meterName": "สมบูรณ์ แก้วบุญเรือง"
+            },
+            {
+                "meterId": 277,
+                "meterName": "นิ่ม ใจปัญญา (3)"
+            },
+            {
+                "meterId": 278,
+                "meterName": "สมเจต กานิน"
+            },
+            {
+                "meterId": 279,
+                "meterName": "พ่อสม (บ้านต้นยางหลวง)"
+            },
+            {
+                "meterId": 280,
+                "meterName": "อินจันทร์ ไชยวรรณา"
+            },
+            {
+                "meterId": 281,
+                "meterName": "บุญชื่น ชมภูคำ"
+            },
+            {
+                "meterId": 282,
+                "meterName": "สวนครูนิ่ม ใจปัญญา"
+            }
+        ]
+    }
+]
