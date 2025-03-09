@@ -5,18 +5,9 @@ import InvoiceTemplate from "./components/InvoiceTemplate";
 import MeterList from "./components/MeterList";
 import dayjs from "dayjs";
 import EscPosEncoder from "@manhnd/esc-pos-encoder";
-import MeterListData from "./assets/data/data.json";
-
-export type TMeterList = {
-  groupId: number;
-  groupName: string;
-  meters: TMeter[];
-};
-
-export type TMeter = {
-  meterId: number;
-  meterName: string;
-};
+import { useQuery } from "@tanstack/react-query";
+import meterService from "./services/meter";
+import { TMeter } from "./types";
 
 export type TInvoiceForm = {
   meterId: number;
@@ -34,7 +25,12 @@ export type TInvoicePrint = {
 };
 
 export default function Home() {
-  const meterList: TMeterList[] = MeterListData;
+  const { data } = useQuery({
+    queryKey: ["meterList"],
+    queryFn: meterService.inquiryMeterGroup,
+  });
+
+  // const meterList: TMeterList[] = MeterListData;
   const [invoicePrint, setInvoicePrint] = React.useState<
     TInvoicePrint | undefined
   >(undefined);
@@ -91,7 +87,7 @@ export default function Home() {
     <div className="flex items-center justify-center h-screen">
       <div className="flex justify-center gap-8">
         <MeterList
-          meterList={meterList}
+          meterList={data || []}
           selectedMeter={selectedMeter}
           setSelectedMeter={setSelectedMeter}
           resetForm={onResetForm}
@@ -99,8 +95,8 @@ export default function Home() {
         <InvoiceForm
           currentInfo={currentInfo}
           setCurrentInfo={setCurrentInfo}
-          meterId={selectedMeter?.meterId || 0}
-          meterName={selectedMeter?.meterName || ""}
+          meterId={selectedMeter?.id || 0}
+          meterName={selectedMeter?.meter_name || ""}
         />
         <div className="space-y-4">
           <InvoiceTemplate

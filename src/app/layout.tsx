@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Mitr, Sarabun } from "next/font/google";
 import "./globals.css";
+import Providers from "./providers";
 
 const mitr = Mitr({
   variable: "--font-mitr",
@@ -28,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${mitr.variable} ${sarabun.variable} antialiased`}>
-        {children}
+        <Providers>{children}</Providers>
       </body>
     </html>
   );

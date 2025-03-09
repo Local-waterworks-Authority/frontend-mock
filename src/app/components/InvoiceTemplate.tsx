@@ -1,7 +1,6 @@
 "use client";
 import React, { useEffect, useRef } from "react";
 import Image from "next/image";
-import LWALogo from "../assets/img/logo.jpeg";
 import dayjs from "dayjs";
 import "dayjs/locale/th";
 import { toJpeg } from "html-to-image";
@@ -120,7 +119,7 @@ export default function InvoiceTemplate({
           {/* Header */}
           <div className="flex-col items-center justify-center">
             <div className="mx-auto mb-2">
-              <Image src={LWALogo} alt="LWA Logo" width={40} height={40} />
+              <Image src="/logo.jpeg" alt="LWA Logo" width={40} height={40} />
             </div>
             <p className="text-l font-semibold">ใบแจ้งค่าน้ำประปา</p>
             <p className="text-sm">บ้านร้องวัวแดงหมู่ที่ 7</p>
