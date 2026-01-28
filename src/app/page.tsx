@@ -110,7 +110,7 @@ export default function Home() {
             meterId={currentInfo?.meterId || 0}
             currentUsage={currentInfo.currentUsage}
             prevUsage={currentInfo.prevUsage}
-            unitPrice={3}
+            unitPrice={4}
             isPrivilege={currentInfo.isPrivilege}
             privilegeUnitDiscount={currentInfo.privilegeUnitDiscount}
             setInvoicePrint={setInvoicePrint}
