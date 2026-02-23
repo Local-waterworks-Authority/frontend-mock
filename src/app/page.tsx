@@ -35,7 +35,7 @@ export default function Home() {
     TInvoicePrint | undefined
   >(undefined);
   const [selectedMeter, setSelectedMeter] = React.useState<TMeter | undefined>(
-    undefined
+    undefined,
   );
   const [currentInfo, setCurrentInfo] = React.useState<TInvoiceForm>({
     meterId: 0,
@@ -70,6 +70,7 @@ export default function Home() {
         .image(invoicePrint.img, 560, invoicePrint.height, "atkinson")
         .cut();
       const result = encoderRes.encode();
+      const buffer = new Uint8Array(result);
 
       const usb = await window.navigator.usb.requestDevice({
         filters: [{ vendorId: 1155, productId: 22339 }],
@@ -78,7 +79,7 @@ export default function Home() {
       await usb.open();
       await usb.claimInterface(0);
 
-      usb.transferOut(1, result);
+      usb.transferOut(1, buffer);
     } catch (err) {
       console.error("Error in handlePrint:", err);
     }
